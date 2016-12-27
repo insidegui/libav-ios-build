@@ -8,11 +8,11 @@ Make sure you have Xcode and It's command line tools installed before running th
 
 ### Step 1: Get a copy of libav
 
-[Download the latest version of libav](https://libav.org/download/) (this script was tested with version 11.4). Extract the zip/tarball.
+[Download the latest version of libav](https://libav.org/download/) (this script was last tested with version 12). Extract the zip/tarball.
 
 ### Step 2: Clone this repository
 
-Go to the directory where you have libav extracted and clone this repo.
+Clone this repo and copy all `.sh` files to the directory where you extracted libav.
 
 	git clone https://github.com/insidegui/libav-ios-build.git
 
